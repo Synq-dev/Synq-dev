@@ -4,6 +4,10 @@
   Discord & Automation Dev | Python Enthusiast | API Architect
 </p>
 
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Synq-dev&color=blue&style=flat-square)
+</p>
+
 ---
 
 ### 👋 About Me
@@ -25,10 +29,9 @@
 
 ### 📫 Connect
 - Discord: `synq.dev`
-- Email: `dev.synq@proton.me` 
+- Email: `dev.synq@proton.me`
 
 ---
 
 ### ⚡ Fun Fact
 I don’t write bugs — I create undocumented features 🐛
-
