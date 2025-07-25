@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Synq-dev&color=blue&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=Synq-dev&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
