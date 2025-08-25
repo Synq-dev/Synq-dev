@@ -28,8 +28,8 @@
 ---
 
 ### 📫 Connect
-- Discord: `synq.dev`
-- Email: `dev.synq@proton.me`
+- Discord: `synq.new`
+- Email: `synq.dev@proton.me`
 
 ---
 
